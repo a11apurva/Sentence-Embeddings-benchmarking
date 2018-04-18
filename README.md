@@ -1,4 +1,4 @@
-# Word Embeddings Benchmarking
+# Sentence Embeddings Benchmarking
 
 Comparison of word2vec and fasttext for sentence-embedding using SIF
 
