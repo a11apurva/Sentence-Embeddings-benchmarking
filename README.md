@@ -7,3 +7,5 @@ TODO: Readme and Documentation
 # Dataset
 
 cooking.stackexchange(49.2MB) from https://archive.org/download/stackexchange/
+
+Use make_corpus.py to Download, Extract and Clean the cooking-corpus
