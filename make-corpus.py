@@ -2,12 +2,11 @@ import tarfile
 import urllib2
 import os
 
-proxy = 'http://anubhav.apurva%40hpe.com:Wayneroony%4010@web-proxy.atl.hp.com:8088'
-
-os.environ['http_proxy'] = proxy 
-os.environ['HTTP_PROXY'] = proxy
-os.environ['https_proxy'] = proxy
-os.environ['HTTPS_PROXY'] = proxy
+##proxy = 'http://'
+##os.environ['http_proxy'] = proxy 
+##os.environ['HTTP_PROXY'] = proxy
+##os.environ['https_proxy'] = proxy
+##os.environ['HTTPS_PROXY'] = proxy
 
 '''Download'''
 
