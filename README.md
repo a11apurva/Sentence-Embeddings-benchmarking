@@ -8,4 +8,4 @@ TODO: Readme and Documentation
 
 cooking.stackexchange(49.2MB) from https://archive.org/download/stackexchange/
 
-Use make_corpus.py to Download, Extract and Clean the cooking-corpus
+Use [make_corpus.py](make-corpus.py) to Download, Extract and Clean the cooking-corpus
