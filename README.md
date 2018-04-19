@@ -11,5 +11,23 @@ cooking.stackexchange(49.2MB) from https://archive.org/download/stackexchange/
 
 Use [make_corpus.py](make-corpus.py) to Download, Extract and Clean the cooking-corpus
 
+## Word Embeddings
+
+Pre-trained word embedings produced by word2vec and fasttext is provided in the [Data](Data) folder. Same hyper-parameters were used in both the algorithms.
+
+Go through word2vec](https://radimrehurek.com/gensim/models/word2vec.html) and [fasttext](https://github.com/facebookresearch/fastText) to generate your own vectors with different hyper-parameters.
+
+## Sentence Embeddings
+
+Although many algorithms exist for word-embedding but very are present for generating sentence vectors. 
+Here we will see two basic approaches for achieving it.
+
+1. SIF: Represent the sentence by a weighted average of the word vectors, and then modify them using Principal Component Analysis.
+2. Summation : Represent the sentence by simply adding the word vectors
+
+## Results
+
+//To be added
+
 ## TODO: 
 Detailed Readme and Documentation
