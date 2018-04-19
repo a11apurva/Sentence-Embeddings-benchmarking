@@ -5,7 +5,7 @@ Comparison of [word2vec](https://radimrehurek.com/gensim/models/word2vec.html) a
 1. [SIF](https://github.com/PrincetonML/SIF)
 2. Simple summation of word-vectors
 
-# Dataset
+## Dataset
 
 cooking.stackexchange(49.2MB) from https://archive.org/download/stackexchange/
 
