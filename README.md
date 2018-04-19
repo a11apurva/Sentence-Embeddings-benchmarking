@@ -1,6 +1,6 @@
 # Sentence Embeddings Benchmarking
 
-Comparison of word2vec and fasttext for sentence-embedding using SIF
+Comparison of [word2vec](https://radimrehurek.com/gensim/models/word2vec.html) and [fasttext](https://github.com/facebookresearch/fastText) for sentence-embedding using [SIF](https://github.com/PrincetonML/SIF)
 
 TODO: Readme and Documentation
 
