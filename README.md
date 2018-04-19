@@ -30,4 +30,7 @@ Here we will see two basic approaches for achieving it.
 //To be added
 
 ## TODO: 
-Detailed Readme and Documentation
+1. Experiment with Glove
+2. Weighted average without PCA removal
+3. Detailed Readme and Documentation
+
