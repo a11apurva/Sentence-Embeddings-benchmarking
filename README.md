@@ -19,11 +19,11 @@ Go through [word2vec](https://radimrehurek.com/gensim/models/word2vec.html) and 
 
 ## Sentence Embeddings
 
-Although many algorithms exist for word-embedding but very are present for generating sentence vectors. 
+Although many algorithms exist for word-embedding but very few are present for generating sentence vectors. 
 Here we will see two basic approaches for achieving it.
 
-1. SIF: Represent the sentence by a weighted average of the word vectors, and then modify them using Principal Component Analysis. ([Paper](https://openreview.net/forum?id=SyK00v5xx))
-2. Summation : Represent the sentence by simply adding the word vectors
+1. **SIF** : Represent the sentence by a weighted average of the word vectors, and then modify them using Principal Component Analysis. ([Paper](https://openreview.net/forum?id=SyK00v5xx))
+2. **Summation** : Represent the sentence by simply adding the word vectors
 
 ## Results
 
