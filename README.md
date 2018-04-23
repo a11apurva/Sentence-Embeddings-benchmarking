@@ -13,7 +13,7 @@ Use [make_corpus.py](make-corpus.py) to Download, Extract and Clean the cooking-
 
 ## Word Embeddings
 
-Pre-trained word embedings produced by word2vec and fasttext is provided in the [Data](Data) folder. Same hyper-parameters were used in both the algorithms.
+Pre-trained word embedings produced by word2vec and fasttext is provided in the [Data](data) folder. Same hyper-parameters were used in both the algorithms.
 
 Go through [word2vec](https://radimrehurek.com/gensim/models/word2vec.html) and [fasttext](https://github.com/facebookresearch/fastText) to generate your own vectors with different hyper-parameters.
 
