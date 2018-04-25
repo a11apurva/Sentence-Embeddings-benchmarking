@@ -40,8 +40,9 @@ Test Set :
 ```
 *Note : The words computer, laptop and physics are not in the training corpus. *
  
- **Using SIF : **
- ```[line1 , line2 , cosine-score]
+ **Using SIF :**
+ ```
+[line1 , line2 , cosine-score]
 
 word2vec:
 [1, 3, 0.3615238794780853]
@@ -55,8 +56,8 @@ fasttext
 [1, 3, 0.3335793994296907]
 [3, 6, 0.2851278825589737]
 [5, 6, 0.28461824462454666]
-[3, 5, 0.22888942154014358]```
-
+[3, 5, 0.22888942154014358]
+```
 
 
 //To be added for Summation
