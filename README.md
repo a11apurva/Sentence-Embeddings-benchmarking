@@ -38,7 +38,7 @@ Test Set :
 5. fire is dangerous in kitchen
 6. I need a new laptop
 ```
-*Note : The words computer, laptop and physics are not in the training corpus. *
+*Note : The words computer, laptop and physics are not in the training corpus.*
  
  **Using SIF :**
  ```
@@ -60,7 +60,7 @@ fasttext
 ```
 
 
-//To be added for Summation
+//Results to be added for Summation
 
 ## TODO: 
 1. Experiment with Glove
