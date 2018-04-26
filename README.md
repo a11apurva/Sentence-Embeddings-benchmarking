@@ -38,7 +38,7 @@ Test Set :
 5. fire is dangerous in kitchen
 6. I need a new laptop
 ```
-*Note : The words computer, laptop and physics are not in the training corpus.*
+Note : The words *computer*, *laptop* and *physics* are not in the training corpus.
  
  **Using SIF :**
  ```
