@@ -58,9 +58,29 @@ fasttext
 [5, 6, 0.28461824462454666]
 [3, 5, 0.22888942154014358]
 ```
+ **Summation of word-vectors :**
+ ```
+[line1 , line2 , cosine-score]
 
+word2vec:
+[4, 2, 0.5945528083051247]
+[0, 2, 0.5612805700996766]
+[6, 2, 0.5217042972147669]
+[0, 4, 0.5132578900623604]
+[5, 1, 0.484055353044489]
+[6, 4, 0.4611925963743473]
+[0, 3, 0.38429849975980024]
 
-//Results to be added for Summation
+fasttext:
+[0, 4, 0.9014838811742563]
+[5, 1, 0.8875734389955054]
+[0, 2, 0.8856123248372448]
+[4, 2, 0.883511509960717]
+[3, 1, 0.8804158971340247]
+[6, 5, 0.8552590681345925]
+[0, 3, 0.8235563302972606]
+```
+*(skipped those words while adding which were not in the original corpus like computer, physics and laptop)*
 
 ## TODO: 
 1. Experiment with Glove
